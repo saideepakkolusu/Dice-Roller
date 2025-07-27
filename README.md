@@ -74,17 +74,4 @@ Display roll statistics (mean, frequency, etc.).
 🙏 Acknowledgements
 Thanks to Python’s simplicity and power for making this kind of small fun project possible!
 
-vbnet
-Copy
-Edit
 
-Let me know if you'd like to add badges, screenshots, or GitHub actions to this as well!
-
-
-
-
-
-
-
-
-Ask ChatGPT
